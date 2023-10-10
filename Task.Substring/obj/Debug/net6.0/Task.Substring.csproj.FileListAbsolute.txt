@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Task.Substring\bin\Debug\net6.0\Task.Substring.exe
+C:\Users\admin\source\repos\Task.Substring\bin\Debug\net6.0\Task.Substring.deps.json
+C:\Users\admin\source\repos\Task.Substring\bin\Debug\net6.0\Task.Substring.runtimeconfig.json
+C:\Users\admin\source\repos\Task.Substring\bin\Debug\net6.0\Task.Substring.dll
+C:\Users\admin\source\repos\Task.Substring\bin\Debug\net6.0\Task.Substring.pdb
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\Task.Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\Task.Substring.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\Task.Substring.AssemblyInfo.cs
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\Task.Substring.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\Task.Substring.dll
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\refint\Task.Substring.dll
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\Task.Substring.pdb
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\Task.Substring.genruntimeconfig.cache
+C:\Users\admin\source\repos\Task.Substring\obj\Debug\net6.0\ref\Task.Substring.dll
